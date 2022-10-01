@@ -11,4 +11,4 @@ The problem in Challenge Three is to create a webpage that generates a password,
 To view the webpage, go to https://allenwang1999.github.io/Password-Generator using your browser and follow the prompts that appear on the screen after clicking the <Generate Password> Button.
 
 ## License
-MIT License; refer to the <a href="LICENSE"">LICENSE</a> file in the repo.
+MIT License; refer to the <a href="LICENSE">LICENSE</a> file in the repo.
